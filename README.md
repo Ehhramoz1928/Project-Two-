@@ -1,4 +1,4 @@
-The System-Centric Approachh:
+The System-Centric Approach:
 
 The primary challenge addressed throughout these projects was the development of a high-performance system capable of managing and retrieving academic course data for a university curriculum. This problem required a solution that could ingest potentially large and unformatted datasets from external files and provide users with an organized, searchable interface. The core requirement was to ensure that as the curriculum grew in complexity and size, the system would maintain its efficiency and structural integrity without a degradation in performance.
 
